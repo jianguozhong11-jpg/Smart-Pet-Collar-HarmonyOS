@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/HealthMonitor",
+    "pages/BehaviorIntervention",
+    "pages/EnvironmentLinkage",
+    "pages/SmartScene",
+    "pages/MultiDeviceSync"
+  ]
+}
